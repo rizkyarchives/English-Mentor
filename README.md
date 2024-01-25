@@ -112,6 +112,9 @@ These are the amazing people who helped to build this wonderful application :
 3. Pydub requires ffmpeg. So you would need to have that installed on your virtual environment for this program to run.
 
 ## Documentation
+![Alt Text](https://github.com/rizkyarchives/English-Mentor/blob/main/output_dashboard.png)
+![Alt Text](https://github.com/rizkyarchives/English-Mentor/blob/main/output_login.png)
+![Alt Text](https://github.com/rizkyarchives/English-Mentor/blob/main/output_quiz.png)
 
 ## License
-This project is licensed under the terms of the MIT license.
+This project is licensed under the terms of the [MIT license](https://github.com/rizkyarchives/English-Mentor/blob/main/LICENSE).
